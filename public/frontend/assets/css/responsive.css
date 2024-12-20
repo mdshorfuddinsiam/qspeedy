@@ -1,0 +1,261 @@
+@media (max-width: 575.98px) {
+  .video-container video{
+      height:100% !important;
+  }
+
+    .quicktech-nav {
+        column-gap: 15px;
+        background-color: white;
+        /* top: -11px; */
+        margin-top: -10px;
+        width: 100%;
+        padding: 10px;
+        overflow: scroll;
+        z-index: 99;
+        height: auto;
+    }
+    .navbar-brand img {
+        width: 100%;
+        height: 90px;
+    }
+    .navbar {
+        height: 84px;
+        z-index: 9999;
+        position: fixed;
+        width: 100%;
+    }
+    .navbar-brand {
+        padding-top: var(--bs-navbar-brand-padding-y);
+        padding-bottom: var(--bs-navbar-brand-padding-y);
+        margin-right: var(--bs-navbar-brand-margin-end);
+        font-size: var(--bs-navbar-brand-font-size);
+        color: var(--bs-navbar-brand-color);
+        text-decoration: none;
+        white-space: nowrap;
+        margin-top: -14px;
+    }
+    .back-vid {
+        width: 100%;
+        height: 220px !important;
+        margin-top: 100px;
+    }
+    #quicktech-banner {
+        height: 227px;
+    }
+    .quicktech-about-img img {
+        height: 300px;
+        border-radius: 10px;
+    }
+    .quicktech-about-text{
+        text-align: center !important;
+    }
+    .quicktech-faq-img img {
+        height: 250px;
+    }
+    .quicktech-service-head h4 {
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        color: black;
+        font-size: 30px;
+    }
+    .quicktech-copyright p {
+        font-size: 12px;
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+    }
+    /*  */
+    .quicktech-p-left li {
+        padding-left: 20px;
+        font-family: "PT Serif", serif;
+        font-weight: 400;
+        font-size: 16px;
+        padding-bottom: 4px;
+    }
+    .quicktech-desp-section h3 {
+        font-size: 21px;
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+    }
+    .quicktech-p-img-main img {
+        height: 270px;
+    }
+  
+}
+
+@media (min-width: 576px) and (max-width: 766.98px) {
+    .video-container video{
+       height: 358px !important;
+    }
+    .quicktech-nav {
+        column-gap: 15px;
+        background-color: white;
+        /* top: -11px; */
+        margin-top: -10px;
+        width: 100%;
+        padding: 10px;
+        overflow: scroll;
+        z-index: 99;
+        height: auto;
+    }
+    .navbar-brand img {
+        width: 100%;
+        height: 90px;
+    }
+    .navbar {
+        height: 84px;
+        z-index: 9999;
+        position: fixed;
+        width: 100%;
+    }
+    .navbar-brand {
+        padding-top: var(--bs-navbar-brand-padding-y);
+        padding-bottom: var(--bs-navbar-brand-padding-y);
+        margin-right: var(--bs-navbar-brand-margin-end);
+        font-size: var(--bs-navbar-brand-font-size);
+        color: var(--bs-navbar-brand-color);
+        text-decoration: none;
+        white-space: nowrap;
+        margin-top: -14px;
+    }
+    .back-vid {
+        width: 100%;
+        height: 250px !important;
+        margin-top: 100px;
+    }
+    #quicktech-banner {
+        height: 360px;
+    }
+    .quicktech-about-img img {
+        height: 400px;
+        border-radius: 10px;
+    }
+    .quicktech-about-text{
+        text-align: center !important;
+    }
+    .quicktech-faq-img img {
+        height: 250px;
+    }
+    .quicktech-service-head h4 {
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        color: black;
+        font-size: 30px;
+    }
+    .quicktech-copyright p {
+        font-size: 12px;
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+    }
+    .quicktech-service-img img {
+        height: 200px;
+        transition: 0.4s;
+        overflow: hidden;
+    }
+
+      /*  */
+      .quicktech-p-left li {
+        padding-left: 20px;
+        font-family: "PT Serif", serif;
+        font-weight: 400;
+        font-size: 16px;
+        padding-bottom: 4px;
+    }
+    .quicktech-desp-section h3 {
+        font-size: 21px;
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+    }
+    .quicktech-p-img-main img {
+        height: 210px;
+    }
+  
+
+}
+
+@media (min-width: 767px) and (max-width: 991.98px) {
+     .video-container video{
+       height: 397px !important;
+    }
+    .quicktech-nav {
+        column-gap: 15px;
+        background-color: white;
+        /* top: -11px; */
+        margin-top: -10px;
+        width: 100%;
+        padding: 10px;
+        overflow: scroll;
+        z-index: 99;
+        height: auto;
+    }
+    .navbar-brand img {
+        width: 100%;
+        height: 90px;
+    }
+    .navbar {
+        height: 84px;
+        z-index: 9999;
+        position: fixed;
+        width: 100%;
+    }
+    .navbar-brand {
+        padding-top: var(--bs-navbar-brand-padding-y);
+        padding-bottom: var(--bs-navbar-brand-padding-y);
+        margin-right: var(--bs-navbar-brand-margin-end);
+        font-size: var(--bs-navbar-brand-font-size);
+        color: var(--bs-navbar-brand-color);
+        text-decoration: none;
+        white-space: nowrap;
+        margin-top: -14px;
+    }
+    .back-vid {
+        width: 100%;
+        height: 300px !important;
+        margin-top: 100px;
+    }
+    #quicktech-banner {
+        height: 400px;
+    }
+    .quicktech-about-img img {
+        height: 400px;
+        border-radius: 10px;
+    }
+    .quicktech-about-text{
+        text-align: center !important;
+    }
+    .quicktech-faq-img img {
+        height: 311px;
+    }
+    .quicktech-service-head h4 {
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 400;
+        color: black;
+        font-size: 30px;
+    }
+    .quicktech-copyright p {
+        font-size: 12px;
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+    }
+    .quicktech-service-img img {
+        height: 200px;
+        transition: 0.4s;
+        overflow: hidden;
+    }
+
+      /*  */
+      .quicktech-p-left li {
+        padding-left: 20px;
+        font-family: "PT Serif", serif;
+        font-weight: 400;
+        font-size: 16px;
+        padding-bottom: 4px;
+    }
+    .quicktech-desp-section h3 {
+        font-size: 21px;
+        font-family: "PT Serif", serif;
+        font-weight: 700;
+    }
+    .quicktech-p-img-main img {
+        height: 270px;
+    }
+}
